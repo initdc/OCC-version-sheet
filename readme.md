@@ -2,11 +2,14 @@
 
 > show which version of OpenCore Configurator you will need
 
+## Warning
+
+The link may not valid, download it from official website.
+
 ## Sheet
 
 | OCC Ver  | link                                | Rel   | Dev   |
 | -------- | ----------------------------------- | ----- | ----- |
-| 1.19.0.0 | [link](http://occ.moz.one/1.19.0.0) | 0.5.6 | 0.5.7 |
 | 1.19.0.0 | [link](http://occ.moz.one/1.19.0.0) | 0.5.6 | 0.5.7 |
 | 1.21.0.0 | [link](http://occ.moz.one/1.21.0.0) | 0.5.6 | 0.5.7 |
 | ---      |
@@ -50,9 +53,8 @@
 | 2.44.0.0 | [link](http://occ.moz.one/2.44.0.0) | 0.7.0 | 0.7.1 |
 | 2.45.0.0 | [link](http://occ.moz.one/2.45.0.0) | 0.7.0 | 0.7.1 |
 | ---      |
-| 2.46.0.0 | [link](http://occ.moz.one/2.46.0.0) | 0.7.0 | 0.7.1 |
-| 2.46.1.0 | [link](http://occ.moz.one/2.46.1.0) | 0.7.0 | 0.7.1 |
-| ---      |
+| 2.46.0.0 | [link](http://occ.moz.one/2.46.0.0) | 0.7.1 | 0.7.2 |
+| 2.46.1.0 | [link](http://occ.moz.one/2.46.1.0) | 0.7.1 | 0.7.2 |
 | 2.47.0.1 | [link](http://occ.moz.one/2.47.0.1) | 0.7.1 | 0.7.2 |
 | 2.47.1.0 | [link](http://occ.moz.one/2.47.1.0) | 0.7.1 | 0.7.2 |
 | ---      |

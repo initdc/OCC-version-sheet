@@ -1,4 +1,4 @@
-# occ-version-sheet
+# [occ-version-sheet](https://github.com/initdc/OCC-version-sheet)
 
 > show which version of OpenCore Configurator you will need
 
@@ -71,6 +71,9 @@ The link may not valid, download it from official website.
 | 2.54.0.0 | [link](http://occ.moz.one/2.54.0.0) | 0.7.5 | 0.7.6 |
 | ---      |
 | 2.54.1.0 | [link](http://occ.moz.one/2.54.1.0) | 0.7.6 | 0.7.7 |
+| 2.55.0.0 | [link](http://occ.moz.one/2.55.0.0) | 0.7.6 | 0.7.7 |
+| ---      |
+| 2.56.0.0 | [link](http://occ.moz.one/2.56.0.0) | 0.7.7 | 0.7.8 |
 
 ## Thanks to
 
